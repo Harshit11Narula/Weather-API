@@ -1,5 +1,5 @@
 # Weather-API
- API - find temperature of any region
+ API - Find temperature of any region
  
  Open command Prompt - 
  Make it to working directory.
