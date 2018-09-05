@@ -1,4 +1,4 @@
-# Weather-API
+# Weather-API (using NODE)
  API - Find temperature of any region
  
  Open command Prompt - 
